@@ -172,3 +172,39 @@ Create a list of five programming languages.
 
 
 ---
+
+## Day 5 — Tuples
+
+**Date:** 2026-09-21
+
+
+### What is a Tuple?
+
+A tuple is a collection of values that cannot normally be changed.
+
+### Example
+
+numbers = (10, 20, 30)
+
+print(numbers)
+print(numbers[0])
+
+### Output
+
+(10, 20, 30)
+10
+
+### Real Life Example
+
+Coordinates such as (10, 20) can be stored as a tuple.
+
+### Important Point
+
+Tuples are immutable.
+
+### Practice
+
+Create a tuple containing five numbers.
+
+
+---
