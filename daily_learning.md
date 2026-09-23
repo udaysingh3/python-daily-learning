@@ -242,3 +242,39 @@ Create a set containing duplicate numbers.
 
 
 ---
+
+## Day 7 — Dictionaries
+
+**Date:** 2026-09-23
+
+
+### What is a Dictionary?
+
+A dictionary stores data using key-value pairs.
+
+### Example
+
+student = {
+    "name": "Uday",
+    "age": 21,
+    "course": "B.Tech CSE"
+}
+
+print(student["name"])
+print(student["course"])
+
+### Output
+
+Uday
+B.Tech CSE
+
+### Real Life Example
+
+Student information can be represented using a dictionary.
+
+### Practice
+
+Create a dictionary containing your name, age and college.
+
+
+---
