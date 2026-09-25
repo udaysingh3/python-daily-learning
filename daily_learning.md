@@ -313,3 +313,42 @@ Take the user's name and age as input.
 
 
 ---
+
+## Day 9 — Operators
+
+**Date:** 2026-09-25
+
+
+### What are Operators?
+
+Operators are symbols used to perform operations.
+
+### Example
+
+a = 10
+b = 3
+
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+print(a % b)
+
+### Output
+
+13
+7
+30
+3.3333333333333335
+1
+
+### Real Life Example
+
+A calculator uses arithmetic operations.
+
+### Practice
+
+Create two numbers and perform all arithmetic operations.
+
+
+---
