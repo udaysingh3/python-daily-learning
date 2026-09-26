@@ -352,3 +352,40 @@ Create two numbers and perform all arithmetic operations.
 
 
 ---
+
+## Day 10 — If Else
+
+**Date:** 2026-09-26
+
+
+### What is If Else?
+
+If-else is used to make decisions.
+
+### Example
+
+age = 20
+
+if age >= 18:
+    print("Adult")
+else:
+    print("Minor")
+
+### Output
+
+Adult
+
+### Real Life Example
+
+A website can check whether a user is old enough to access a service.
+
+### Important Point
+
+Python uses indentation.
+
+### Practice
+
+Check whether a number is positive or negative.
+
+
+---
