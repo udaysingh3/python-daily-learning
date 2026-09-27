@@ -389,3 +389,36 @@ Check whether a number is positive or negative.
 
 
 ---
+
+## Day 11 — For Loop
+
+**Date:** 2026-09-27
+
+
+### What is a For Loop?
+
+A for loop repeats code for each item in a sequence.
+
+### Example
+
+for i in range(1, 6):
+    print(i)
+
+### Output
+
+1
+2
+3
+4
+5
+
+### Real Life Example
+
+A program can use a loop to process every student in a class.
+
+### Practice
+
+Print numbers from 1 to 10 using a for loop.
+
+
+---
