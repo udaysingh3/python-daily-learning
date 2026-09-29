@@ -458,3 +458,39 @@ Print numbers from 10 to 1 using a while loop.
 
 
 ---
+
+## Day 13 — Functions
+
+**Date:** 2026-09-29
+
+
+### What is a Function?
+
+A function is a reusable block of code.
+
+### Syntax
+
+def function_name():
+    code
+
+### Example
+
+def greet():
+    print("Hello Uday!")
+
+greet()
+
+### Output
+
+Hello Uday!
+
+### Real Life Example
+
+A payment system can have a function called make_payment().
+
+### Practice
+
+Create a function that adds two numbers.
+
+
+---
