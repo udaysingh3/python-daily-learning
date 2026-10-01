@@ -524,3 +524,31 @@ Create a lambda function that adds two numbers.
 
 
 ---
+
+## Day 15 — List Comprehension
+
+**Date:** 2026-10-01
+
+
+### What is List Comprehension?
+
+List comprehension provides a short way to create lists.
+
+### Example
+
+numbers = [1, 2, 3, 4, 5]
+
+squares = [x * x for x in numbers]
+
+print(squares)
+
+### Output
+
+[1, 4, 9, 16, 25]
+
+### Practice
+
+Create a list containing squares from 1 to 10.
+
+
+---
