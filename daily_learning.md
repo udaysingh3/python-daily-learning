@@ -584,3 +584,35 @@ Write a program that handles invalid input.
 
 
 ---
+
+## Day 17 — File Handling
+
+**Date:** 2026-10-03
+
+
+### What is File Handling?
+
+File handling allows Python to read and write files.
+
+### Example
+
+with open("example.txt", "w") as file:
+    file.write("Hello Python")
+
+with open("example.txt", "r") as file:
+    print(file.read())
+
+### Output
+
+Hello Python
+
+### Real Life Example
+
+Applications can save user information in files.
+
+### Practice
+
+Create a file and write your name into it.
+
+
+---
