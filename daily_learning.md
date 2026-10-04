@@ -616,3 +616,35 @@ Create a file and write your name into it.
 
 
 ---
+
+## Day 18 — Modules
+
+**Date:** 2026-10-04
+
+
+### What is a Module?
+
+A module is a Python file containing reusable code.
+
+### Example
+
+import math
+
+print(math.sqrt(25))
+print(math.pi)
+
+### Output
+
+5.0
+3.141592653589793
+
+### Real Life Example
+
+Instead of writing mathematical functions yourself, you can use Python's math module.
+
+### Practice
+
+Use the math module to find the square root of 100.
+
+
+---
