@@ -648,3 +648,37 @@ Use the math module to find the square root of 100.
 
 
 ---
+
+## Day 19 — Classes and Objects
+
+**Date:** 2026-10-05
+
+
+### What is a Class?
+
+A class is a blueprint for creating objects.
+
+### Example
+
+class Student:
+    def __init__(self, name):
+        self.name = name
+
+student = Student("Uday")
+
+print(student.name)
+
+### Output
+
+Uday
+
+### Real Life Example
+
+A Student class can represent students in a college management system.
+
+### Practice
+
+Create a Student class with name and age.
+
+
+---
