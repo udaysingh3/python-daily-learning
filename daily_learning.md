@@ -718,3 +718,38 @@ Create a Vehicle class and a Car child class.
 
 
 ---
+
+## Day 21 — Generators
+
+**Date:** 2026-10-07
+
+
+### What is a Generator?
+
+A generator produces values one at a time using yield.
+
+### Example
+
+def numbers():
+    for i in range(1, 4):
+        yield i
+
+for number in numbers():
+    print(number)
+
+### Output
+
+1
+2
+3
+
+### Important Point
+
+Generators can save memory.
+
+### Practice
+
+Create a generator that produces numbers from 1 to 10.
+
+
+---
