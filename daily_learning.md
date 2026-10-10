@@ -821,3 +821,36 @@ Create a NumPy array containing numbers from 1 to 10.
 
 
 ---
+
+## Day 24 — Pandas
+
+**Date:** 2026-10-10
+
+
+### What is Pandas?
+
+Pandas is a Python library used for data analysis.
+
+### Example
+
+import pandas as pd
+
+data = {
+    "Name": ["Uday", "Rahul"],
+    "Age": [21, 22]
+}
+
+df = pd.DataFrame(data)
+
+print(df)
+
+### Real Life Example
+
+Pandas can be used to analyze CSV files and datasets.
+
+### Practice
+
+Create a DataFrame containing five students and their marks.
+
+
+---
