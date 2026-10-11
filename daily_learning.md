@@ -854,3 +854,40 @@ Create a DataFrame containing five students and their marks.
 
 
 ---
+
+## Day 25 — JSON
+
+**Date:** 2026-10-11
+
+
+### What is JSON?
+
+JSON is commonly used to store and exchange data.
+
+### Example
+
+import json
+
+data = {
+    "name": "Uday",
+    "age": 21
+}
+
+json_data = json.dumps(data)
+
+print(json_data)
+
+### Output
+
+{"name": "Uday", "age": 21}
+
+### Real Life Example
+
+Web APIs commonly send and receive JSON data.
+
+### Practice
+
+Create a dictionary and convert it into JSON.
+
+
+---
