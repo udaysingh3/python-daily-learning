@@ -891,3 +891,35 @@ Create a dictionary and convert it into JSON.
 
 
 ---
+
+## Day 26 — APIs with Python
+
+**Date:** 2026-10-12
+
+
+### What is an API?
+
+An API allows different software applications to communicate.
+
+### Example
+
+import requests
+
+response = requests.get("https://api.github.com")
+
+print(response.status_code)
+
+### Real Life Example
+
+A weather application can use an API to get current weather data.
+
+### Important Point
+
+HTTP status code 200 generally means success.
+
+### Practice
+
+Learn how GET and POST requests work.
+
+
+---
