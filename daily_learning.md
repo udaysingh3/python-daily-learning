@@ -923,3 +923,31 @@ Learn how GET and POST requests work.
 
 
 ---
+
+## Day 27 — Virtual Environment
+
+**Date:** 2026-10-13
+
+
+### What is a Virtual Environment?
+
+A virtual environment creates an isolated Python environment for a project.
+
+### Create Environment
+
+python -m venv .venv
+
+### Activate on Windows
+
+.venv\Scripts\activate
+
+### Real Life Example
+
+Different projects may require different versions of packages.
+
+### Practice
+
+Create a virtual environment for a Python project.
+
+
+---
