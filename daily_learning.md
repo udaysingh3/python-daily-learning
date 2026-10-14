@@ -951,3 +951,31 @@ Create a virtual environment for a Python project.
 
 
 ---
+
+## Day 28 — Python Packages
+
+**Date:** 2026-10-14
+
+
+### What is a Python Package?
+
+A package contains reusable Python code.
+
+### Example
+
+pip install pandas
+
+Then:
+
+import pandas as pd
+
+### Real Life Example
+
+Developers use packages such as NumPy, Pandas and Requests instead of writing everything from scratch.
+
+### Practice
+
+Install NumPy and create a simple array.
+
+
+---
