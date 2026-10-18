@@ -1108,3 +1108,39 @@ Create your full name and print the first character.
 
 
 ---
+
+## Day 32 — Lists
+
+**Date:** 2026-10-18
+
+
+### What is a List?
+
+A list stores multiple values in one variable.
+
+### Example
+
+fruits = ["Apple", "Banana", "Mango"]
+
+print(fruits)
+print(fruits[0])
+
+### Output
+
+['Apple', 'Banana', 'Mango']
+Apple
+
+### Real Life Example
+
+A shopping list can be stored using a Python list.
+
+### Important Point
+
+Lists are ordered and mutable.
+
+### Practice
+
+Create a list of five programming languages.
+
+
+---
