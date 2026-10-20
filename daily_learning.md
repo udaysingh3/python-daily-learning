@@ -1180,3 +1180,37 @@ Create a tuple containing five numbers.
 
 
 ---
+
+## Day 34 — Sets
+
+**Date:** 2026-10-20
+
+
+### What is a Set?
+
+A set stores unique values.
+
+### Example
+
+numbers = {1, 2, 2, 3, 4}
+
+print(numbers)
+
+### Output
+
+{1, 2, 3, 4}
+
+### Real Life Example
+
+A set can be useful when you want to remove duplicate values.
+
+### Important Point
+
+Sets do not store duplicate values.
+
+### Practice
+
+Create a set containing duplicate numbers.
+
+
+---
