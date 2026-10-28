@@ -1466,3 +1466,33 @@ Create a function that adds two numbers.
 
 
 ---
+
+## Day 42 — Lambda Functions
+
+**Date:** 2026-10-28
+
+
+### What is a Lambda Function?
+
+A lambda function is a small anonymous function.
+
+### Syntax
+
+lambda arguments: expression
+
+### Example
+
+square = lambda x: x * x
+
+print(square(5))
+
+### Output
+
+25
+
+### Practice
+
+Create a lambda function that adds two numbers.
+
+
+---
