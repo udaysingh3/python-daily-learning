@@ -1654,3 +1654,39 @@ Create a Student class with name and age.
 
 
 ---
+
+## Day 48 — Inheritance
+
+**Date:** 2026-11-03
+
+
+### What is Inheritance?
+
+Inheritance allows one class to use features of another class.
+
+### Example
+
+class Animal:
+    def speak(self):
+        print("Animal speaks")
+
+class Dog(Animal):
+    pass
+
+dog = Dog()
+dog.speak()
+
+### Output
+
+Animal speaks
+
+### Real Life Example
+
+A Car class can inherit common features from a Vehicle class.
+
+### Practice
+
+Create a Vehicle class and a Car child class.
+
+
+---
