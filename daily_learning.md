@@ -1725,3 +1725,37 @@ Create a generator that produces numbers from 1 to 10.
 
 
 ---
+
+## Day 50 — Regular Expressions
+
+**Date:** 2026-11-05
+
+
+### What are Regular Expressions?
+
+Regular expressions are used to search for patterns in text.
+
+### Example
+
+import re
+
+text = "My phone number is 9876543210"
+
+result = re.search(r"\d{10}", text)
+
+print(result.group())
+
+### Output
+
+9876543210
+
+### Real Life Example
+
+Regex can be used to validate emails, phone numbers and other text patterns.
+
+### Practice
+
+Find an email address inside a string using regex.
+
+
+---
