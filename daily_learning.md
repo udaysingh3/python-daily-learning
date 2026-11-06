@@ -1759,3 +1759,37 @@ Find an email address inside a string using regex.
 
 
 ---
+
+## Day 51 — NumPy
+
+**Date:** 2026-11-06
+
+
+### What is NumPy?
+
+NumPy is a Python library used for numerical computing.
+
+### Example
+
+import numpy as np
+
+numbers = np.array([1, 2, 3, 4, 5])
+
+print(numbers)
+print(numbers * 2)
+
+### Output
+
+[1 2 3 4 5]
+[ 2  4  6  8 10]
+
+### Real Life Example
+
+NumPy is widely used in data science and machine learning.
+
+### Practice
+
+Create a NumPy array containing numbers from 1 to 10.
+
+
+---
