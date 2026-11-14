@@ -2042,3 +2042,41 @@ Create variables using int, float, string and boolean.
 
 
 ---
+
+## Day 59 — Strings
+
+**Date:** 2026-11-14
+
+
+### What is a String?
+
+A string is text written inside quotes.
+
+### Example
+
+name = "Uday"
+
+print(name)
+print(name[0])
+print(name.upper())
+
+### Output
+
+Uday
+U
+UDAY
+
+### Real Life Example
+
+Names, addresses and messages are commonly stored as strings.
+
+### Important Point
+
+String indexing starts from 0.
+
+### Practice
+
+Create your full name and print the first character.
+
+
+---
