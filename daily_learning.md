@@ -2222,3 +2222,38 @@ Create a dictionary containing your name, age and college.
 
 
 ---
+
+## Day 64 — Input
+
+**Date:** 2026-11-19
+
+
+### What is input()?
+
+input() is used to take information from the user.
+
+### Example
+
+name = input("Enter your name: ")
+
+print("Hello", name)
+
+### Example Output
+
+Enter your name: Uday
+Hello Uday
+
+### Real Life Example
+
+A login form takes information from the user.
+
+### Important Point
+
+input() normally returns a string.
+
+### Practice
+
+Take the user's name and age as input.
+
+
+---
