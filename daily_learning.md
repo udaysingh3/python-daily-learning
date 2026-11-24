@@ -2366,3 +2366,39 @@ Print numbers from 1 to 10 using a for loop.
 
 
 ---
+
+## Day 68 — While Loop
+
+**Date:** 2026-11-24
+
+
+### What is a While Loop?
+
+A while loop runs while a condition is true.
+
+### Example
+
+number = 1
+
+while number <= 5:
+    print(number)
+    number += 1
+
+### Output
+
+1
+2
+3
+4
+5
+
+### Real Life Example
+
+A game can continue running while the player is alive.
+
+### Practice
+
+Print numbers from 10 to 1 using a while loop.
+
+
+---
