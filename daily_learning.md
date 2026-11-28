@@ -2496,3 +2496,35 @@ Create a list containing squares from 1 to 10.
 
 
 ---
+
+## Day 72 — Exception Handling
+
+**Date:** 2026-11-28
+
+
+### What is Exception Handling?
+
+Exception handling allows us to handle errors safely.
+
+### Example
+
+try:
+    number = int(input("Enter a number: "))
+    print(10 / number)
+
+except ZeroDivisionError:
+    print("Cannot divide by zero")
+
+except ValueError:
+    print("Please enter a valid number")
+
+### Real Life Example
+
+Banking applications need error handling so one wrong input does not crash the complete application.
+
+### Practice
+
+Write a program that handles invalid input.
+
+
+---
